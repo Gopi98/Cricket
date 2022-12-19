@@ -1,0 +1,9 @@
+{
+	"name": "CricketAdf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "59b0c17b-07e5-4f14-ac4c-eaefedc470da",
+		"tenantId": "cd135858-792d-4502-8c54-c8a24306be70"
+	}
+}
