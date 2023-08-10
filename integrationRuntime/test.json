@@ -1,0 +1,7 @@
+{
+	"name": "test",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "testing self hosted connection"
+	}
+}
